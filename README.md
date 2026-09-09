@@ -2,6 +2,8 @@
 
 En enkel ensidig hemsida som förklarar vad Claude Code är och hur det fungerar.
 
+**Live:** https://zouk2026.github.io/claude-code-hemsida/
+
 ## Se sidan lokalt
 
 Öppna `index.html` i en webbläsare, eller kör en lokal server:
