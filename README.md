@@ -1,6 +1,6 @@
-# Hur Claude Code fungerar
+# Virya Coaching
 
-En enkel ensidig hemsida som förklarar vad Claude Code är och hur det fungerar.
+Landningssida för Virya Coaching – nervsystemsbaserat hållbart ledarskap.
 
 **Live:** https://zouk2026.github.io/claude-code-hemsida/
 

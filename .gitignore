@@ -1,1 +1,9 @@
 .DS_Store
+
+# Interna dokument - ska inte publiceras i det publika repot
+CLAUDE.md
+kundbrief.txt
+*.pptx
+*.docx
+~$*
+.claude/
