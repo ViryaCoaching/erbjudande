@@ -2,7 +2,7 @@
 
 Landningssida för Virya Coaching – nervsystemsbaserat hållbart ledarskap.
 
-**Live:** https://zouk2026.github.io/claude-code-hemsida/
+**Live:** https://viryacoaching.github.io/erbjudande/
 
 ## Se sidan lokalt
 
